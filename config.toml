@@ -1,0 +1,14 @@
+baseURL = 'https://docs.beehaw.org/'
+languageCode = 'en-us'
+title = 'Beehaw Docs'
+
+enableGitInfo = true
+disableKinds = ['taxonomy', 'taxonomyTerm']
+theme="hugo-book"
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'auto'
+  BookLogo = 'beehaw.png'
+
