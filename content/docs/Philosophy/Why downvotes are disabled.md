@@ -1,8 +1,8 @@
 ---
-title: Why downvotes are disabled
+title: Why down votes are disabled
 weight: 20
 ---
-# Why downvotes are disabled
+# Why down votes are disabled
 
 If you are to ask ten users what the purpose of a downvote is, you'll likely receive 10 different responses. Down votes don't have a dedicated purpose, and even if they did, you can't ensure that everyone will follow that purpose. People use both up votes and down votes for a variety of purposes, many of which are redundant.
 
