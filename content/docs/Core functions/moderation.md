@@ -1,6 +1,6 @@
 ---
 title: Moderation
-weight: 20
+weight: 25
 ---
 # Moderation
 [Comments](https://beehaw.org/post/439918)

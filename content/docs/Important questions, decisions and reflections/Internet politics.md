@@ -1,6 +1,6 @@
 ---
 title: Politics on the internet
-weight: 30
+weight: 22
 ---
 # Politics on the internet
 [Comments](https://beehaw.org/post/524300)

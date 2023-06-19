@@ -1,6 +1,6 @@
 ---
 title: Why down votes are disabled
-weight: 20
+weight: 10
 ---
 # Why down votes are disabled
 
