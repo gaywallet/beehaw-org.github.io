@@ -1,10 +1,10 @@
 ---
-title: Reading list
+title: Beehaw reading list
 weight: 30
 ---
-# Reading list
+# Beehaw Reading list
 
-We recommend these articles:
+The following links are a list of relevant reading materials which inform how we run the site, decisions we've made in creating and structuring the site, administering the site, and so on. We don't agree with all facets of them, nor are we necessarily unanimous on _which_ parts are the most important - but they'll give you a good idea of what we prioritize and why. A brief quote from each is provided.
 
 - _[Evaporative Cooling of Group Beliefs](https://www.lesswrong.com/posts/ZQG9cwKbct2LtmL3p/evaporative-cooling-of-group-beliefs)_ by Eliezer Yudkowsky (December 7, 2007), _LessWrong_. "My own theory of Internet moderation is that you have to be willing to exclude trolls and spam to get a conversation going. You must even be willing to exclude kindly but technically uninformed folks from technical mailing lists if you want to get any work done. A genuinely open conversation on the Internet degenerates fast."
 - _[Well-Kept Gardens Die By Pacifism](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism)_ by Eliezer Yudkowsky (April 20, 2009), _LessWrong_. "This about the Internet:  Anyone can walk in.  And anyone can walk out.  And so an online community must stay _fun_ to stay alive.  Waiting until the last resort of absolute, blatent, undeniable egregiousness—waiting as long as a police officer would wait to open fire—indulging your conscience and the virtues you learned in walled fortresses, waiting until you can be _certain you are in the right, and fear no questioning looks_—is waiting _far_ too late."
