@@ -45,8 +45,8 @@ As for non-moderation ways you can keep things running: Contribute to discussion
 ## What else should I know?
 We *always* take feedback. While we can’t promise any *changes*, you can provide thoughts and comments on just about anything on the site in [Beehaw Support](https://beehaw.org/c/support), or on [Discord] or [Matrix] (where we maintain real-time chat). We try to get a sense of what the community wants and needs all the time, so we’ll frequently be asking for input from you to help inform our decisions.
 
-- [Downvotes are disabled on this instance](https://docs.beehaw.org/philosophy/why-downvotes-are-disabled/) and will probably always be. we find them unproductive. 
-- [Communities cannot be made by users on here](https://docs.beehaw.org/docs/philosophy/beehaw-is-a-community/). we do take feedback on what gets made and when to make communities, as a part of the above point. you can always find a running list of communities we have [here](https://beehaw.org/communities), or under the Communities button on desktop.
+- [Downvotes are disabled on this instance]({{< ref "/docs/core-functions/why-downvotes-are-disabled" >}}) and will probably always be. we find them unproductive. 
+- [Communities cannot be made by users on here]({{< ref "/docs/core-functions/community-creation" >}}). we do take feedback on what gets made and when to make communities, as a part of the above point. you can always find a running list of communities we have [here](https://beehaw.org/communities), or under the Communities button on desktop.
 - We are all volunteers, and this is not a job for us. we would like to not have it be one, so we can just be members of the community with all of you. please help keep it that way!
 
 In the very, very long term, we aspire to become a co-op or similar, as a part of fulfilling our ethos.
