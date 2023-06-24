@@ -16,17 +16,13 @@ You can register [here](https://beehaw.org/signup).
 You can send us an email at [email](mailto:support@beehaw.org)
 
 ## How long should I expect to wait to be approved?
-Anywhere from a few minutes to a day. In general, try logging in after about 24 hours. 
+**Anywhere from a few minutes to 48 hours.** 
 
-**If you haven’t been approved within 24 hours**, your application is almost certainly in our backlog because you didn’t answer our entry question to our satisfaction. This doesn’t mean we’re rejecting you, per se, but it generally means we didn’t think you engaged with the content above/on the sidebar. 
+You should get notified whether you've been approved or denied if you've used an email to sign up. **Make sure to check your spam folder to be safe**; it being sent to spam may be an issue for some users. If you did not use an email to sign up, try logging in after about 24 hours, and then again after 48 hours to be safe.
 
-**If you were rejected**, your application is almost certainly in our backlog because you didn’t answer our entry question to our satisfaction. This doesn’t mean we’re rejecting you, per se, but it generally means we didn’t think you engaged with the content above/on the sidebar. 
+If we receive an influx of users you may get caught in registration limbo by failing to answer the questions, and/or it may take longer to get back to you than the 48 hours listed here.
 
-This is inelegant, but Lemmy doesn’t make it reliably possible to tell you to reapply, so this is a shortcoming we have to make do with.
-
-**If you have been approved and you used an email to sign up you should receive an email for that**, although it might be marked as spam.
-
-if you have issues of this sort, please send us a message on [Mastodon](https://fosstodon.org/@beehaw) or through [email](mailto:support@beehaw.org)!
+If you have issues of this sort, please send us a message on [Mastodon](https://fosstodon.org/@beehaw) or through [email](mailto:support@beehaw.org)!
 
 ## I’m in! How can I keep Beehaw running, or otherwise contribute?
 Our instance is **100% user-funded**. You can one-time donate or become a monthly donor [here](https://opencollective.com/beehaw/donate). You can donate anonymously either way. 
