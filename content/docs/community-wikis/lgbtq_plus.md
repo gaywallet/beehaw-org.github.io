@@ -28,7 +28,11 @@ Parts of this page have been adapted from the [Global Transgender Resources Regi
 - [Transfeminine Science](https://transfemscience.org/): "Transfeminine Science is a resource for original informational content on the subject of transfeminine hormone therapy. [...] Transfeminine Science is written by transgender people, for transgender people—and for their medical providers."
 
 #### DIY HRT
-**DISCLAIMER: We are not medical experts, and cannot independently verify or vouch for the following websites. We encourage you to use any legal and medical resource within your power to undergo HRT before exercising these resources. Use them at your own risk. If you think you may have a medical emergency, please contact a doctor or emergency services.**
+{{< hint danger >}}
+**Disclaimer**
+
+We are not medical experts, and cannot independently verify or vouch for the following websites. We encourage you to use any legal and medical resource within your power to undergo HRT before exercising these resources. Use them at your own risk. If you think you may have a medical emergency, please contact a doctor or emergency services.
+{{< /hint >}}
 - [diyhrt.wiki](https://diyhrt.wiki/index): "This website intends to teach transgender people how to safely perform DIY Hormone Replacement Therapy."
 - [diyhrt.cafe](https://diyhrt.cafe/index.php/Main_Page) ([how they verify sellers](https://diyhrt.cafe/index.php/Project:Verification))
 
