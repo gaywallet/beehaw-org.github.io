@@ -64,6 +64,7 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 
 ### HIV/AIDS Resources
 - **US**: [CDC](http://www.cdc.gov/hiv/)
+  - [Paying for Pre-Exposure Prophylaxis (PrEP): Gilead Medication Assistance Program](https://www.cdc.gov/hiv/basics/prep/paying-for-prep/gilead-medication-assistance-program.html)
 - **US**: [San Francisco Aids Foundation](http://www.sfaf.org/)
 - **UK**: [NHS](https://www.nhs.uk/conditions/hiv-and-aids/)
 - **UK**: [Terrence Higgins Trust](https://www.tht.org.uk/)
@@ -86,6 +87,7 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 #### General Resources
 - [Refuge Restrooms](https://www.refugerestrooms.org/): a web application that seeks to provide safe restroom access for transgender, intersex, and gender nonconforming individuals
 - [Erin Reeds’s informed consent clinics map](https://www.google.com/maps/d/u/0/viewer?mid=1DxyOTw8dI8n96BHFF2JVUMK7bXsRKtzA&ll=-3.81666561775622e-14%2C-109.09443705000001&z=2): Erin Reed’s informed consent map lists every informed consent hormone therapy clinic.
+- [Strong Family Alliance's faith-based organizations list](https://www.strongfamilyalliance.org/hopeful-voices/faith-based-organizations/): **This is a list of organizations and services for religious LGBTQ+ and queer people.** Although mostly tailored toward the major American Christian denominations, it includes non-Christian resources as well.
 
 #### Relocation Resources
 - [The Trans Resistance Network (TRN)](https://transresistancenetwork.wordpress.com/): Formed to ensure the survival of gender diverse people and families through strategic coordination of resources for relocation, alternative systems of gender-affirming care, mutual aid, and community defense.
@@ -93,8 +95,7 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 - [A Place For Marsha](https://www.aplaceformarshaofficial.org/): A Place for Marsha is one of many start-up projects aiming towards helping Trans individuals and families in increasingly dangerous states to a safer place.
 
 #### Charities and Civil Rights Organizations
-- [Human Rights Campaign](https://hrc.org/)
-- [American Civil Liberties Union](https://www.aclu.org/)
+- [Trevor Project](https://www.thetrevorproject.org/)
 - [Lambda Legal](https://www.lambdalegal.org/)
 - [GLBTQ Legal Advocates & Defenders](https://www.glad.org/)
 - [Transgender Law Center](https://transgenderlawcenter.org/)
@@ -103,9 +104,11 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 - [LGBT Victory Fund](https://victoryfund.org/)
 - [GLAAD](http://glaad.org/)
 - [Gay, Lesbian, Bisexual, and Transgender Round Table](http://www.ala.org/rt/glbtrt)
+- [Human Rights Campaign](https://hrc.org/)
+- [American Civil Liberties Union](https://www.aclu.org/)
 
 #### In a Crisis?
-- [Trevor Project](https://www.thetrevorproject.org/get-help/): Connect to a LGBTQ understanding crisis counselor 24/7, 365 days a year, from anywhere in the U.S. It is 100% confidential, and 100% free.
+- [Trevor Project: Get Help](https://www.thetrevorproject.org/get-help/): Connect to a LGBTQ understanding crisis counselor 24/7, 365 days a year, from anywhere in the U.S. It is 100% confidential, and 100% free.
 - [Trans Lifeline](https://translifeline.org/hotline/): Trans Lifeline’s hotline is a peer support phone service run by trans people for our trans and questioning peers. Call them if you need someone trans to talk to, even if you’re not in crisis or if you’re not sure if you’re trans.
 - [RAINN (Rape, Abuse & Incest National Network)](https://www.rainn.org/): RAINN (Rape, Abuse & Incest National Network) is the nation’s largest anti-sexual violence organization. RAINN created and operates the National Sexual Assault Hotline (**800-656-HOPE**, **online.rainn.org**)
 
@@ -115,9 +118,9 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 - [The Angels](http://www.theangels.co.uk), an internet support group for trans women
 
 #### Charities and Civil Rights Organizations
+- [Press For Change](http://www.pfc.org.uk), "Press for Change has been a key lobbying and legal support organisation for Trans people in the UK. since its formation in 1992."
 - [Mermaids](http://www.mermaidsuk.org.uk/): "Mermaids supports transgender, nonbinary and gender-diverse children and young people until their 20th birthday, as well as their families and professionals involved in their care."
 - [Regard](http://www.regard.org.uk/): "Regard is a national organisation of lesbians, gay men, bisexuals, transgender, queer and intersex people (LGBTQI+) **who self-identify as disabled.**"
-- [Press For Change](http://www.pfc.org.uk), "Press for Change has been a key lobbying and legal support organisation for Trans people in the UK. since its formation in 1992."
 - [GIRES (Gender Identity Research & Education Society)](https://www.gires.org.uk/): "GIRES is a UK wide organisation whose purpose is to improve the lives of trans and gender diverse people of all ages, including those who are non-binary and non-gender."
 - [Tranzwiki by GIRES](https://www.gires.org.uk/tranzwiki/): "TranzWiki is a comprehensive directory of non-commercial groups and organisations supporting or assisting trans and gender diverse individuals, their families and friends across the UK."
 - [CliniQ](https://cliniq.org.uk/): "We offer a holistic sexual health, mental health and wellbeing service for all trans people, partners and friends. We are a trans-led team, who offer a safe, confidential space for those who may not feel comfortable accessing mainstream services."
@@ -150,13 +153,6 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 #### In a Crisis?
 - [LGBT YouthLine](http://www.youthline.ca/index.php): Youth Line offers confidential and non-judgemental peer support through our telephone, text and chat services. Get in touch with a peer support volunteer from Sunday to Friday, 4:00PM to 9:30 PM. Call **1-800-268-9688** or text **647-694-4275**. Chat is also available on their website.
 
-### Mexico
-- [Casa de Muñecas Tiresias](https://www.munecastiresias.org/): "Somos una asociación transfeminista incluyente que busca transformar la vida de las personas disidentes del género en México a través de proyectos integrales de fortalecimiento y defensa de derechos humanos con miras a la transformación cultural y la inclusión social libre de discriminación." (We are an inclusive transfeminist association that seeks to transform the lives of gender dissidents in Mexico through comprehensive projects to strengthen and defend human rights with a view to cultural transformation and discrimination-free social inclusion.)
-- [Impulso Trans](https://impulsotransac.org/): "Asociación civil que busca brindar apoyo y fortalecimiento para las personas trans: transgénero, transexuales, travestis, intersex y LGBQ+ bajo un enfoque de igualdad y no discriminación, integrando la perspectiva de género y derechos humanos." (Civil association that seeks to provide support and strengthening for trans people: transgender, transsexual, transvestite, intersex and LGBQ+ under an equality and non-discrimination approach, integrating the gender and human rights perspective.)
-- [Asociación por las infancias trans](https://infanciastrans.org/): "Nuestro compromiso es con el desarrollo integral de les niñes y adolescentes Trans, por lo que todos nuestros servicios son gratuitos." (Our commitment is to the comprehensive development of trans children and adolescents, which is why all our services are free.)
-- [Centro de Apoyo a las Identidades Trans](https://centroapoyoidentidadestrans.blogspot.com/): "Somos una organización de la sociedad civil que trabaja para hacer efectivo el cumplimiento y ejercicio de los Derechos Humanos de las poblaciones trans a través de estrategias de participación y movilización comunitaria, educación entre pares; e incidencia política en base a evidencia." (We are a civil society organization that works to enforce the fulfillment and exercise of the Human Rights of trans populations through participation strategies and community mobilization, peer education; and evidence-based advocacy.)
-- [Almas Cautivas](https://almascautivas.org/quienes-somos/): "Trabajamos a favor de la población LGBT privada de libertad pero sin olvidar a otros grupos en situación de vulnerabilidad como: indígenas, personas adultas mayores y personas con discapacidad." (We work in favor of the LGBT population deprived of liberty but without forgetting other groups in vulnerable situations such as: indigenous people, older adults and people with disabilities.)
-
 ### Germany
 - **[Deutschland-spezifische Seite](https://gtrr.artemislena.eu/Germany/) des globalen Transgenderressourcenregisters (GTRR).** 
 - [Regenbogenportal](https://www.regenbogenportal.de/): "Das Regenbogenportal ist der Informationspool der Bundesregierung zu gleichgeschlechtlichen Lebensweisen und geschlechtlicher Vielfalt." (General LGBTQ+ information site run by the Federal Ministry for Family Affairs.)
@@ -164,6 +160,22 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 - [Bundesverband Trans*](https://www.bundesverband-trans.de/): "Der Bundesverband Trans* e.V. setzt sich für die Rechte von trans* Personen im weiteren Sinne ein[...]" (The Bundesverband Trans* e.V. is committed to the rights of trans* people in a broader sense[...])
 - [Gynformation.de](https://www.gynformation.de/): "Wir sind ein queer-feministisches Kollektiv für gynäkologische Selbstbestimmung. Du verdienst in der Behandlung einen respektvollen, vertraulichen, unvoreingenommenen und professionellen Umgang." (We are a queer feminist collective for gynecological self-determination. You deserve respectful, confidential, impartial and professional treatment in treatment.)
 - [Trans*DB](https://transdb.de/): "Trans\*DB ist eine Website, mit der du nach trans\*relevanten medizinischen Leistungen und Communityangeboten aus deiner Umgebung suchen kannst." ("Trans\*DB is a website that you can use to search for trans\* related medical services and community offerings in your area.")
+
+### Mexico
+- [Casa de Muñecas Tiresias](https://www.munecastiresias.org/): "Somos una asociación transfeminista incluyente que busca transformar la vida de las personas disidentes del género en México a través de proyectos integrales de fortalecimiento y defensa de derechos humanos con miras a la transformación cultural y la inclusión social libre de discriminación." (We are an inclusive transfeminist association that seeks to transform the lives of gender dissidents in Mexico through comprehensive projects to strengthen and defend human rights with a view to cultural transformation and discrimination-free social inclusion.)
+- [Impulso Trans](https://impulsotransac.org/): "Asociación civil que busca brindar apoyo y fortalecimiento para las personas trans: transgénero, transexuales, travestis, intersex y LGBQ+ bajo un enfoque de igualdad y no discriminación, integrando la perspectiva de género y derechos humanos." (Civil association that seeks to provide support and strengthening for trans people: transgender, transsexual, transvestite, intersex and LGBQ+ under an equality and non-discrimination approach, integrating the gender and human rights perspective.)
+- [Asociación por las infancias trans](https://infanciastrans.org/): "Nuestro compromiso es con el desarrollo integral de les niñes y adolescentes Trans, por lo que todos nuestros servicios son gratuitos." (Our commitment is to the comprehensive development of trans children and adolescents, which is why all our services are free.)
+- [Centro de Apoyo a las Identidades Trans](https://centroapoyoidentidadestrans.blogspot.com/): "Somos una organización de la sociedad civil que trabaja para hacer efectivo el cumplimiento y ejercicio de los Derechos Humanos de las poblaciones trans a través de estrategias de participación y movilización comunitaria, educación entre pares; e incidencia política en base a evidencia." (We are a civil society organization that works to enforce the fulfillment and exercise of the Human Rights of trans populations through participation strategies and community mobilization, peer education; and evidence-based advocacy.)
+- [Almas Cautivas](https://almascautivas.org/quienes-somos/): "Trabajamos a favor de la población LGBT privada de libertad pero sin olvidar a otros grupos en situación de vulnerabilidad como: indígenas, personas adultas mayores y personas con discapacidad." (We work in favor of the LGBT population deprived of liberty but without forgetting other groups in vulnerable situations such as: indigenous people, older adults and people with disabilities.)
+
+### Poland
+- [Kampania Przeciw Homofobii (KPH)](https://kph.org.pl/): "Działamy na rzecz osób homo- i biseksualnych oraz transpłciowych (LGBT) i ich bliskich, poprzez rzecznictwo polityczne, społeczne i prawne, tworzenie i wdrażanie systemowych rozwiązań edukacyjnych dla różnych grup zawodowych oraz budowanie szerokiego ruchu sojuszniczego." (We act for the benefit of homosexual, bisexual and transgender (LGBT) people and their relatives through political, social and legal advocacy, creating and implementing systemic educational solutions for various professional groups, and building a broad allied movement.)
+- [Miłość nie wyklucza](https://mnw.org.pl/): "Chcemy, żeby wszystkie kochające się pary mogły wziąć ślub w Polsce!" (We want all loving couples to be able to get married in Poland!)
+- [Fundacja Trans-Fuzja](https://www.transfuzja.org/strona-g%C5%82%C3%B3wna): "Wizją Fundacji Trans-Fuzja jest absolutne poszanowanie praw człowieka osób transpłciowych w Polsce, zapewnienie im całkowitej równości społecznej oraz brak dyskryminacji w jakichkolwiek obszarach życia, szczególnie w kwestii poszanowania tożsamości i ekspresji płciowej." (The vision of the Trans-Fuzja Foundation is absolute respect for the human rights of transgender people in Poland, ensuring their complete social equality and non-discrimination in any areas of life, especially in respect of gender identity and expression.)
+- [Lambda Warszawa](https://lambdawarszawa.org/): "Lambda Warszawa jest organizacją działającą na rzecz wsparcia osób, które znalazły się w trudnej sytuacji ze względu na orientację psychoseksualną lub tożsamość płciową, jak również tych, które z tych powodów doświadczały bądź doświadczają dyskryminacji i przemocy." (Lambda Warszawa is an organization working to support people who found themselves in a difficult situation due to their psychosexual orientation or gender identity, as well as those who have experienced or are experiencing discrimination and violence for these reasons.)
+- [Wiara i Tęcza](https://www.wiaraitecza.pl/): "Działamy na rzecz chrześcijan homoseksualnych, biseksualnych, transpłciowych, niebinarnych i interpłciowych, opowiadając się za pełną akceptacją LGBT+ w Kościołach i w społeczeństwie." (We work for lesbian, gay, bisexual, transgender, non-binary, and intersex Christians, advocating full acceptance of LGBT+ people in Christian Churches and in society.)
+- [Otwarta Przestrzeń](https://otwartaprzestrzen.pl/): "Otwarta Przestrzeń to miejsce stworzone z myślą o wspieraniu osób LGBTQIAP i ich bliskich." (Open Space is a place created to support LGBTQIAP people and their loved ones.)
+- [Grupa Stonewall](https://grupa-stonewall.pl/): "Grupa Stonewall została założona 22 maja 2015 r. Jesteśmy organizacją LGBT+ działającą na terenie Wielkopolski." (The Stonewall Group was founded on May 22, 2015. We are an LGBT+ organization operating in Greater Poland.)
 
 ### Other countries
 - **FR**: [WikiTrans](https://wikitrans.co/): "Toutes les ressources pour les personnes trans en questionnement ou en transition, leurs proches et leurs alliés." (All the resources for trans people in question or in transition, their loved ones and their allies.)
