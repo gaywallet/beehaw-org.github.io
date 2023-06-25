@@ -20,7 +20,8 @@ Parts of this page have been adapted from the [Global Transgender Resources Regi
 - [MSpec ("multi-attraction spectrum") Wiki](https://mspec.miraheze.org/wiki/Main_Page): "...our goal is to build a wiki with in-depth information about all orientations which are attracted to more than one gender."
 
 ### Transgender Resources
-- **[World Professional Association for Transgender Health (WPATH)](https://www.wpath.org/)**
+- **[Transgender Professional Association for Transgender Health (TPATH)](https://tpathealth.org/)**: The Transgender Professional Association for Transgender Health is the first global transgender healthcare organization headed by trans-identified health care professionals, broadly identified as researchers, clinicians, providers-in-training, activists and other service-oriented experts.
+- **[World Professional Association for Transgender Health (WPATH)](https://www.wpath.org/)**: The World Professional Association for Transgender Heath is interdisciplinary professional and educational organization devoted to transgender health. Our professional, supporting, and student members engage in clinical and academic research to develop evidence-based medicine and strive to promote a high quality of care for transsexual, transgender, and gender-nonconforming individuals internationally.
 - [Trans Rescue](https://transrescue.org/): "If you are a trans person in a part of the world where trans people are under threat, and you are in serious danger, we may be able to help you."
 - [TransHealthcare](https://www.transhealthcare.org/): "TransHealthCare is the largest and most comprehensive database of Gender Surgeons." **Primarily covers US, but also seems to have listings for other countries.**
 - [Trans Voice](https://transvoice.party/): Resources on voice training for trans people, and communities to help facilitate voice training.
@@ -47,6 +48,7 @@ Parts of this page have been adapted from the [Global Transgender Resources Regi
 - **US**: [San Francisco Aids Foundation](http://www.sfaf.org/)
 - **UK**: [NHS](https://www.nhs.uk/conditions/hiv-and-aids/)
 - **UK**: [Terrence Higgins Trust](https://www.tht.org.uk/)
+- **NZ**: [Burnett Foundation](https://www.burnettfoundation.org.nz/)
 - [Be In The Know](https://www.beintheknow.org/) (formerly avert.org)
 - [amFAR (Foundation for AIDS Research)](http://www.amfar.org/)
 - [AIDS Healthcare Foundation](http://www.aidshealth.org/)
@@ -115,6 +117,7 @@ Parts of this page have been adapted from the [Global Transgender Resources Regi
 - **FR**: [WikiTrans](https://wikitrans.co/): "Toutes les ressources pour les personnes trans en questionnement ou en transition, leurs proches et leurs alliés." (All the resources for trans people in question or in transition, their loved ones and their allies.)
 - **FR**: [Fransgenre](https://fransgenre.fr/): "Nous sommes une association nationale d'information et d'entraide principalement autour des aspects médicaux, juridiques et administratifs des transitions, et de défense des droits des personnes trans." (We are a national association of information and mutual aid mainly around the medical, legal and administrative aspects of transitions, and the defense of the rights of trans people.)
 - **IE**: [Transgender Equality Network Ireland](https://teni.ie/)
+- **NZ**: Rainbow Support Collective: A network of Aotearoa's rainbow organisations. Website coming soon - see [Be There](https://be-there.org.nz) for a list of organisations.
 
 #### In a Crisis?
 The following lists are generally considered to be trustworthy and up to date, although we cannot independently vouch for them at all times. They comprise a mixture of community and international hotlines, depending on your need.
