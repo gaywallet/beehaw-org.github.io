@@ -23,6 +23,7 @@ Parts of this page have been adapted from the [Global Transgender Resources Regi
 - **[World Professional Association for Transgender Health (WPATH)](https://www.wpath.org/)**: The World Professional Association for Transgender Heath is interdisciplinary professional and educational organization devoted to transgender health. Our professional, supporting, and student members engage in clinical and academic research to develop evidence-based medicine and strive to promote a high quality of care for transsexual, transgender, and gender-nonconforming individuals internationally.
 - [Trans Rescue](https://transrescue.org/): "If you are a trans person in a part of the world where trans people are under threat, and you are in serious danger, we may be able to help you."
 - [TransHealthcare](https://www.transhealthcare.org/): "TransHealthCare is the largest and most comprehensive database of Gender Surgeons." **Primarily covers US, but also seems to have listings for other countries.**
+- **US**: [US Trans Survey](https://www.ustranssurvey.org/): runs annually
 - [Trans Voice](https://transvoice.party/): Resources on voice training for trans people, and communities to help facilitate voice training.
 - [Point of Pride](https://www.pointofpride.org/): "Point of Pride provides financial aid and direct support to trans folks in need of health and wellness care." Notably provides **free chest binders** for trans people.
 - [Transfeminine Science](https://transfemscience.org/): "Transfeminine Science is a resource for original informational content on the subject of transfeminine hormone therapy. [...] Transfeminine Science is written by transgender people, for transgender people—and for their medical providers."
@@ -41,13 +42,25 @@ We are not medical experts, and cannot independently verify or vouch for the fol
   - **DE**: [Nichtbinär-Wiki](https://nibi.space/)
 
 ### Bisexuality Resources
+- [Bisexual Visibility Day](https://bivisibilityday.com/): **September 23**
 - [Bisexual Resource Center](https://biresource.org/): "The Bisexual Resource Center works to connect the bi+ community and help its members thrive through resources, support, and celebration."
+- **UK**: [BiPhoria](https://biphoria.org.uk/): "BiPhoria is the UK's longest-running bi organisation - we celebrated our 25th birthday in the summer of 2019."
 
 ### Asexuality Resources
+- [International Asexuality Day](internationalasexualityday.org): **April 6**
 - [AVEN Community](https://www.asexuality.org/) (Asexuality Visibility and Education Network). AVEN maintains an active community forum **[here](http://www.asexuality.org/en)**.
+- **US**: [The Ace and Aro Advocacy Project (TAAAP)](https://taaap.org/): "TAAAP is an organization dedicated to providing resources on asexuality and aromanticism to the public."
+- [Ace Community Survey](https://acecommunitysurvey.org/): "The Ace Community Survey is an annual survey by the Ace Community Survey Team, which collects valuable information on the demographics and experiences of members in the ace community."
+- Resources page from the now-defunct [Asexuality New Zealand Trust](https://asexualitytrust.org.nz/what-is-asexuality/)
+- [Asexual Agenda](https://asexualagenda.wordpress.com/)
 
 ### Intersex Resources 
--
+- [ILGA World - the International Lesbian, Gay, Bisexual, Trans and Intersex Association](https://ilga.org/): Puts on the International Intersex Forum; many intersex organizations participate in ILGA's continental chapters.
+- [Organisation Intersex International Europe](https://www.oiieurope.org/)
+- [interACT](https://interactadvocates.org/)
+- **BE**: [Intersekse Vlaanderen](https://www.interseksevlaanderen.be/)
+- **IT**: [Intersexioni](https://www.intersexioni.it/)
+- **NL**: [Stichting Nederlands Netwerk Intersekse/DSD](https://nnid.nl/)
 
 ### HIV/AIDS Resources
 - **US**: [CDC](http://www.cdc.gov/hiv/)
@@ -74,7 +87,7 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 - [Refuge Restrooms](https://www.refugerestrooms.org/): a web application that seeks to provide safe restroom access for transgender, intersex, and gender nonconforming individuals
 - [Erin Reeds’s informed consent clinics map](https://www.google.com/maps/d/u/0/viewer?mid=1DxyOTw8dI8n96BHFF2JVUMK7bXsRKtzA&ll=-3.81666561775622e-14%2C-109.09443705000001&z=2): Erin Reed’s informed consent map lists every informed consent hormone therapy clinic.
 
-##### Relocation Resources
+#### Relocation Resources
 - [The Trans Resistance Network (TRN)](https://transresistancenetwork.wordpress.com/): Formed to ensure the survival of gender diverse people and families through strategic coordination of resources for relocation, alternative systems of gender-affirming care, mutual aid, and community defense.
 - [Rainbow Passage](https://rainbowpassage.org/): Providing transportation for individuals in harm's way, with a focus on bringing them to the Sanctuary states and cities. Safely escorting individuals to communities with the necessary legal, financial, educational, and medical resources to meet their needs.
 - [A Place For Marsha](https://www.aplaceformarshaofficial.org/): A Place for Marsha is one of many start-up projects aiming towards helping Trans individuals and families in increasingly dangerous states to a safer place.
@@ -125,7 +138,7 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 - **[Enchante Network](https://enchantenetwork.ca/en/membership-list/) has an extensive list of LGBTQ+ advocacy groups and organizations. See there for more.**
 - **AB**: [Pride Centre of Edmonton](https://pridecentreofedmonton.ca/): "The Pride Centre of Edmonton provides a non-judgmental, welcoming space where people of all attractions, identities, and expressions can be themselves, find support, meet new people, and be part of a caring community."
 - **BC**: [Advocacy Canada](https://advocacy-canada.lgbt/): "The mission of Advocacy Canada is to unite and amplify queer voices and their allies in the community to effect positive change on important issues that make a lasting difference."
-- **MB**:[Reaching Out Winnipeg](https://reachingoutwinnipeg.org/): "ROW’s objective is to create an increased number of permanent resettlement opportunities for SOGI asylum seekers here in Winnipeg."
+- **MB**: [Reaching Out Winnipeg](https://reachingoutwinnipeg.org/): "ROW’s objective is to create an increased number of permanent resettlement opportunities for SOGI asylum seekers here in Winnipeg."
 - **MB**: [Rainbow Resource Centre](https://rainbowresourcecentre.org/): "Rainbow Resource Centre offers support to the 2SLGBTQ+ community in the form of counselling, education, and programming for individuals ranging from children through to 55±. It also supports families, friends, and employers of 2SLGBTQ+ individuals."
 - **NT**: [Northern Mosaic](https://www.northernmosaic.net/): "We’re invested in making the Northwest Territories a safer, more equitable place for 2SLGBTQIPA+ youth, families and adults."
 - **ON**: [Toronto PFLAG](https://www.torontopflag.org/): "Toronto Pflag promotes the health and well-being of LGBTQ2S+ people by helping to keep families together through Support and Education."
