@@ -11,4 +11,7 @@ theme="hugo-book"
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'auto'
   BookLogo = 'beehaw.png'
+  BookRepo = 'https://github.com/beehaw-org/beehaw-org.github.io'
+  BookCommitPath = 'commit'
+  BookEditPath = 'edit/main'
 
