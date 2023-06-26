@@ -153,6 +153,22 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 #### In a Crisis?
 - [LGBT YouthLine](http://www.youthline.ca/index.php): Youth Line offers confidential and non-judgemental peer support through our telephone, text and chat services. Get in touch with a peer support volunteer from Sunday to Friday, 4:00PM to 9:30 PM. Call **1-800-268-9688** or text **647-694-4275**. Chat is also available on their website.
 
+### France
+- **[Proud-and-Gay: Les associations LGBT essentielles à connaître absolument](https://proud-and-gay.fr/blogs/proud-gay-le-blog/les-associations-lgbt-essentielles)**
+- [SOS homophobie](https://www.sos-homophobie.org/): "SOS homophobie est une association féministe de lutte contre la lesbophobie, la gayphobie, la biphobie, la transphobie et l’intersexophobie." (SOS Homophobia is a feminist association fighting against lesbophobia, gayphobia, biphobia, transphobia and intersexphobia.) Ligne: **01 48 06 42 41**
+- [La Fondation Le Refuge](https://le-refuge.org/): "Avec ses équipes de salariés et de bénévoles, la Fondation Le Refuge héberge et accompagne les jeunes LGBT+, de 14 à 25 ans, victimes d’homophobie ou de transphobie et en situation de rupture familiale, vers leur reconstruction émotionnelle et matérielle." (With its teams of employees and volunteers, the Fondation Le Refuge accommodates and supports young LGBT+ people, aged 14 to 25, victims of homophobia or transphobia and in a situation of family breakdown, towards their emotional and material reconstruction.) Ligne jeunes LGBT+: **06 31 59 69 50**
+- [ADHEOS](https://www.adheos.org/): "ADHEOS est une ONG française LGBTI à dimension nationale et internationale par ses nombreuses activités et compétences dans la défense des droits des minorités sexuelles." (ADHEOS is a French LGBTI NGO with a national and international dimension through its numerous activities and skills in defending the rights of sexual minorities.)
+- [Le MAG Jeunes LGBT+](https://www.mag-jeunes.org/): "Le MAG Jeunes LGBT+ est une association par et pour les jeunes LGBTI+ âgé·e·s de 15 et 30 ans, fondée en 1985." (MAG Jeunes LGBT+ is an association by and for young LGBTI+ people aged between 15 and 30, founded in 1985.)
+- [Chrysalide](https://chrysalide-asso.fr/): "Association trans militante de support et de diffusion d’informations sur les transidentités." (Activist trans association supporting and disseminating information on trans identities.)
+- [DILCRAH: Répertoire des ressources LGBTI en ligne](https://www.dilcrah.fr/repertoire-des-ressources-lgbti-ligne/): "Le répertoire de ressources sur la haine anti-LGBT de la DILCRAH est une sélection des brochures, guides et livrets produits par les associations et les institutions sur le sujet." (The DILCRAH anti-LGBT hate resource directory is a selection of brochures, guides and booklets produced by associations and institutions on the subject.)
+- [WikiTrans](https://wikitrans.co/): "Toutes les ressources pour les personnes trans en questionnement ou en transition, leurs proches et leurs alliés." (All the resources for trans people in question or in transition, their loved ones and their allies.)
+- [Fransgenre](https://fransgenre.fr/): "Nous sommes une association nationale d'information et d'entraide principalement autour des aspects médicaux, juridiques et administratifs des transitions, et de défense des droits des personnes trans." (We are a national association of information and mutual aid mainly around the medical, legal and administrative aspects of transitions, and the defense of the rights of trans people.)
+
+#### En crise? (In a Crisis?)
+- [Réseau d'Assistance aux Victimes d'Agressions et de Discriminations (RAVAD)](https://ravad.org/): Une association qui assiste les victimes d’agressions et de discriminations, en particulier pour les agressions à raison de l’orientation sexuelle et de l’identité de genre. Ligne **06 07 60 67 42**; email urgence@ravad.org
+- [SOS homophobie](https://www.sos-homophobie.org/): Ligne d'écoute anonyme **01 48 06 42 41**
+- [La Fondation Le Refuge](https://le-refuge.org/): Ligne jeunes LGBT+ **06 31 59 69 50**
+
 ### Germany
 - **[Deutschland-spezifische Seite](https://gtrr.artemislena.eu/Germany/) des globalen Transgenderressourcenregisters (GTRR).** 
 - [Regenbogenportal](https://www.regenbogenportal.de/): "Das Regenbogenportal ist der Informationspool der Bundesregierung zu gleichgeschlechtlichen Lebensweisen und geschlechtlicher Vielfalt." (General LGBTQ+ information site run by the Federal Ministry for Family Affairs.)
@@ -178,8 +194,6 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 - [Grupa Stonewall](https://grupa-stonewall.pl/): "Grupa Stonewall została założona 22 maja 2015 r. Jesteśmy organizacją LGBT+ działającą na terenie Wielkopolski." (The Stonewall Group was founded on May 22, 2015. We are an LGBT+ organization operating in Greater Poland.)
 
 ### Other countries
-- **FR**: [WikiTrans](https://wikitrans.co/): "Toutes les ressources pour les personnes trans en questionnement ou en transition, leurs proches et leurs alliés." (All the resources for trans people in question or in transition, their loved ones and their allies.)
-- **FR**: [Fransgenre](https://fransgenre.fr/): "Nous sommes une association nationale d'information et d'entraide principalement autour des aspects médicaux, juridiques et administratifs des transitions, et de défense des droits des personnes trans." (We are a national association of information and mutual aid mainly around the medical, legal and administrative aspects of transitions, and the defense of the rights of trans people.)
 - **IE**: [Transgender Equality Network Ireland](https://teni.ie/): "Transgender Equality Network Ireland (TENI) seeks to improve conditions and advance the rights and equality of trans people and their families."
 - **NZ**: Rainbow Support Collective: A network of Aotearoa's rainbow organisations. Website coming soon - see [Be There](https://be-there.org.nz) for a list of organisations.
 
