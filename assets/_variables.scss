@@ -1,3 +1,8 @@
+.markdown table {
+  width: 100%;
+  display: inline-table !important;
+}
+
 @mixin theme-light {
   --gray-100: #f8f9fa;
   --gray-200: #e9ecef;
