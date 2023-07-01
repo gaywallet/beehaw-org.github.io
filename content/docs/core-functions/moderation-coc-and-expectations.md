@@ -1,5 +1,5 @@
 ---
-title: Moderation
+title: Moderation CoC And Expectations
 weight: 50
 ---
 # Moderation
