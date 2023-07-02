@@ -1,5 +1,5 @@
 ---
-title: Moderation CoC And Expectations
+title: Choosing moderators
 weight: 50
 ---
 # Moderation
@@ -32,23 +32,3 @@ Sortition (appointment by lot) may offset some of these problems but also has it
 ### Legitimacy
 
 We wouldn't want to receive medical care from an individual which was elected by the vote of non-medical professionals. The same would be true of legal advice. We would like our moderators to be educated and skilled in moderating, and both elections and sortition don’t always center these values. Ultimately, we haven’t decided on a sustainable long-term solution to moderation, and have been choosing active members in communities which seem to embody or align with our ethos to elevate to a moderating position.
-
-## Moderation at Beehaw
-
-Problems aside, we do have some expectations for moderators at Beehaw.
-
-### What is Expected of Community Moderators?
-
-* Encourage and promote respectful and constructive discussions, and address any behaviour that goes against our community’s spirit to be(e) nice.
-* Assist people by answering their questions, offering guidance, and helping them navigate the platform effectively, ensuring they feel heard.
-* Where possible, give admins and/or your fellow active mods concerns, improvements, or insights you have from your section of our community.
-
-### What Powers do Community Moderators Have?
-We expect moderators to use these responsibly, obviously:
-
-* The ability to remove or hide posts, comments, or other content that violate our community guidelines.
-* The authority to issue warnings to users who breach our mantra, and in severe cases, temporarily suspend their accounts.
-
-We generally encourage a compassionate approach to moderating, though. Unless someone is clearly unproductive, we encourage you as a mod to engage in constructive dialogue before banning. And if you don’t have the energy for this, you can flag a post to bring it to an admin's (or another mod’s) attention.
-
-Additionally: blatantly misusing these or using them maliciously will be instant grounds for demotion, and in the latter case likely permanent banning from the site. Do not do that, please and thank you.

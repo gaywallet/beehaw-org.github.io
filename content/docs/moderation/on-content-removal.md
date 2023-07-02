@@ -1,9 +1,8 @@
 ---
-title: Moderation
+title: On Content Removal
 weight: 5
 ---
-# Moderation
-## On Content Removal
+# On Content Removal
 
 Harmful, bigoted, or generally distasteful content isn't as frequent on our site as it is elsewhere, but these do still appear enough that we sometimes get questions about why certain comments are left up. This post is meant to help you understand a bit about *how* we moderate.
 
