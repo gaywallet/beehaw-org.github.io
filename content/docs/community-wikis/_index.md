@@ -18,5 +18,5 @@ Here you'll find the community wikis made by various of our community members!
 title: "Your Community name"
 ---
 ```
-4. Edit the page as wanted and submit it.
-5. Someone will review it and merge it.
+5. Edit the page as wanted and submit it.
+6. Someone will review it and merge it.
