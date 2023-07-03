@@ -12,7 +12,7 @@ Here you'll find the community wikis made by various of our community members!
 1. Create a **Github account**, which will allow you to use Github's web interface to edit files.
 2. Go to the [Community wikis folder](https://github.com/beehaw-org/beehaw-org.github.io/tree/main/content/docs/community-wikis)
 3. Click "Add a page". You will be prompted to "Fork this repository", which will create a copy of the Beehaw repository to your own github account for you to work on. Proceed.
-   * (Learn more about forks)[https://docs.github.com/en/get-started/quickstart/fork-a-repo]
+   * [Learn more about forks](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 4. For the **filename**, use the **url variant** of your community in **lowercase**, followed with `.md`. Examples:
  
