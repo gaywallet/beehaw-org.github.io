@@ -6,7 +6,7 @@ title: LGBTQ+
 {{< hint info >}}
 **Notice**
 
-The following list has been assessed for link-rot and accessibility as of **June 25, 2023**. Please report any dead links or missing resources you come across, and we'll remove them (and hopefully replace them) as soon as possible.
+The following list has been assessed for link-rot and accessibility as of **July 10, 2023**. Please report any dead links or missing resources you come across, and we'll remove them (and hopefully replace them) as soon as possible.
 {{< /hint >}}
 
 Parts of this page have been adapted from the [Global Transgender Resources Registry](https://gtrr.artemislena.eu/), the Tildes [~lgbt wiki](https://tildes.net/~lgbt/wiki/lgbt_resources) (to which one of our admins was a previous contributor), and Emi's [blahaj.zone](https://lemmy.blahaj.zone/post/154325) thread.
@@ -27,6 +27,7 @@ Parts of this page have been adapted from the [Global Transgender Resources Regi
 - [Trans Voice](https://transvoice.party/): Resources on voice training for trans people, and communities to help facilitate voice training.
 - [Point of Pride](https://www.pointofpride.org/): "Point of Pride provides financial aid and direct support to trans folks in need of health and wellness care." Notably provides **free chest binders** for trans people.
 - [Transfeminine Science](https://transfemscience.org/): "Transfeminine Science is a resource for original informational content on the subject of transfeminine hormone therapy. [...] Transfeminine Science is written by transgender people, for transgender people—and for their medical providers."
+- [TMS: A Bibliography of Transgender Studies in Media, Communication, and Technology](https://www.thomasjbillard.com/tms): "[...]to aid scholars in finding relevant literature on transgender topics in communication and media studies before completing their work and submitting it for peer review, as well as to aid students in introducing themselves to this field of study"
 
 #### DIY HRT
 {{< hint danger >}}
@@ -49,6 +50,7 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 ### Asexuality Resources
 - [International Asexuality Day](internationalasexualityday.org): **April 6**
 - [AVEN Community](https://www.asexuality.org/) (Asexuality Visibility and Education Network). AVEN maintains an active community forum **[here](http://www.asexuality.org/en)**.
+- [Asexuality Handbook](https://www.asexuality-handbook.com/): "This site's aim is to provide easy access to information and advice about asexuality that is understandable, deep, and well referenced."
 - **US**: [The Ace and Aro Advocacy Project (TAAAP)](https://taaap.org/): "TAAAP is an organization dedicated to providing resources on asexuality and aromanticism to the public."
 - [Ace Community Survey](https://acecommunitysurvey.org/): "The Ace Community Survey is an annual survey by the Ace Community Survey Team, which collects valuable information on the demographics and experiences of members in the ace community."
 - Resources page from the now-defunct [Asexuality New Zealand Trust](https://asexualitytrust.org.nz/what-is-asexuality/)
@@ -163,6 +165,7 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 - [DILCRAH: Répertoire des ressources LGBTI en ligne](https://www.dilcrah.fr/repertoire-des-ressources-lgbti-ligne/): "Le répertoire de ressources sur la haine anti-LGBT de la DILCRAH est une sélection des brochures, guides et livrets produits par les associations et les institutions sur le sujet." (The DILCRAH anti-LGBT hate resource directory is a selection of brochures, guides and booklets produced by associations and institutions on the subject.)
 - [WikiTrans](https://wikitrans.co/): "Toutes les ressources pour les personnes trans en questionnement ou en transition, leurs proches et leurs alliés." (All the resources for trans people in question or in transition, their loved ones and their allies.)
 - [Fransgenre](https://fransgenre.fr/): "Nous sommes une association nationale d'information et d'entraide principalement autour des aspects médicaux, juridiques et administratifs des transitions, et de défense des droits des personnes trans." (We are a national association of information and mutual aid mainly around the medical, legal and administrative aspects of transitions, and the defense of the rights of trans people.)
+- [L’association Bi’Cause](https://bicause.fr/): "Bi’Cause est une association mixte et consensuelle de réflexion, d’information et de prévention s’adressant aux personnes qui se définissent ou sont perçues comme bisexuelles ou pansexuelles, ou encore qui s’intéressent à ces orientations. Bi’Cause propose des temps et des lieux de rencontre, d’échanges et de discussions."
 
 #### En crise? (In a Crisis?)
 - [Réseau d'Assistance aux Victimes d'Agressions et de Discriminations (RAVAD)](https://ravad.org/): Une association qui assiste les victimes d’agressions et de discriminations, en particulier pour les agressions à raison de l’orientation sexuelle et de l’identité de genre. Ligne **06 07 60 67 42**; email urgence@ravad.org
