@@ -1,8 +1,8 @@
 ---
 title: On forking
-weight: 30
+icon: fork_left
+weight: 16
 ---
-# On forking
 [Comments](https://beehaw.org/post/524300)
 
 Beehaw is a community of individuals and therefore does not have any specific political affiliation. At this point in time, we do not know what the political leanings of most of our users are. We do however suspect that many of our users would identify as progressive because we are explicitly a safe space for minorities. What we stand for and the space that we’re trying to make is compatible with many forms of politics. Unfortunately some political groups build themselves around and choose to elevate or tolerate hate speech. These are the only political groups that we are incompatible with. If any of it was unclear in any of the other posts, we will restate it all here. Beehaw does not tolerate hate speech. Beehaw is an explicitly safe space. We center and promote kindness because that is what we see and love in the world.

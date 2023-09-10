@@ -1,5 +1,5 @@
 ---
 weight: 5
-bookFlatSection: true
+icon: bookmarks
 title: "Resources"
 ---

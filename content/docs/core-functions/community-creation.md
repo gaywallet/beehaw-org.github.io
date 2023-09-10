@@ -1,8 +1,8 @@
 ---
 title: Community creation
-weight: 20
+icon: communities
+weight: 8
 ---
-# Community creation
 [Comments](https://beehaw.org/post/439918?scrollToComments=true)
 
 We are one the few instances on Lemmy that has community creation restricted to admins. There are a few reasons for this.

@@ -1,6 +1,6 @@
 ---
 weight: 7
-bookFlatSection: true
+icon: volunteer_activism
 title: "Community wikis"
 ---
 # Community wikis

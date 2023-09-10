@@ -1,8 +1,7 @@
 ---
 title: Politics on the internet
-weight: 22
+weight: 14
 ---
-# Politics on the internet
 [Comments](https://beehaw.org/post/524300)
 
 Many, if not most discussions of politics on the internet are poisoned by virtue signaling. When they are not poisoned by virtue signaling, discussions are often just ways to vent emotions. We believe the reason for this is the platforms themselves and the incentives to engage online. 

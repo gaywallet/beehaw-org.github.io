@@ -1,8 +1,8 @@
 ---
 title: Beehaw is a community
-weight: 20
+icon: volunteer_activism
+weight: 5
 ---
-# Beehaw is a community
 [Comments](https://beehaw.org/post/140733?scrollToComments=true)
 
 From the early stages of conceptualization of what we wanted to do differently, up through the feedback we’ve been getting as Beehaw has been growing, there’s been a consistent narrative and push back from certain individuals about how we’ve decided to run things here. To be clear, these are the individuals whom are either on the fence, those who are not enthusiastic about our mission and voice it elsewhere, and to a lesser extent some of the individuals we have since banned from our platform. The narrative typically takes the position that ‘open/free speech’ is paramount and that any suppression of said speech is unwelcome (typically said in a much more hostile way). As we’ve experienced this push back, we’ve slowly gathered our thoughts and realized what we believe is a fundamental disconnect between those who have earnestly and openly adopted our platform and those who fight against it.

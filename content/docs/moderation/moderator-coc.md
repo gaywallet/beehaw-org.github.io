@@ -1,8 +1,7 @@
 ---
 title: Moderator Code of Conduct
-weight: 50
+weight: 11
 ---
-# Moderator Code of Conduct
 [Comments](https://beehaw.org/post/439918?scrollToComments=true)
 
 ## What is Expected of Community Moderators?

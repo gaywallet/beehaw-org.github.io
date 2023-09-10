@@ -1,13 +1,10 @@
 ---
-title: LGBTQ+
+title: LGBTQ+ wiki
+icon: diversity_1
 ---
-# LGBTQ+ Wiki
-
-{{< hint info >}}
-**Notice**
-
-The following list has been assessed for link-rot and accessibility as of **July 10, 2023**. Please report any dead links or missing resources you come across, and we'll remove them (and hopefully replace them) as soon as possible.
-{{< /hint >}}
+{{< alert context="warning" >}}
+The following list has been assessed for link-rot and accessibility as of July 10, 2023. Please report any dead links or missing resources you come across, and we'll remove them (and hopefully replace them) as soon as possible.
+{{< /alert >}}
 
 Parts of this page have been adapted from the [Global Transgender Resources Registry](https://gtrr.artemislena.eu/), the Tildes [~lgbt wiki](https://tildes.net/~lgbt/wiki/lgbt_resources) (to which one of our admins was a previous contributor), and Emi's [blahaj.zone](https://lemmy.blahaj.zone/post/154325) thread.
 
@@ -30,11 +27,9 @@ Parts of this page have been adapted from the [Global Transgender Resources Regi
 - [TMS: A Bibliography of Transgender Studies in Media, Communication, and Technology](https://www.thomasjbillard.com/tms): "[...]to aid scholars in finding relevant literature on transgender topics in communication and media studies before completing their work and submitting it for peer review, as well as to aid students in introducing themselves to this field of study"
 
 #### DIY HRT
-{{< hint danger >}}
-**Disclaimer**
-
-We are not medical experts, and cannot independently verify or vouch for the following websites. We encourage you to use any legal and medical resource within your power to undergo HRT before exercising these resources. Use them at your own risk. If you think you may have a medical emergency, please contact a doctor or emergency services.
-{{< /hint >}}
+{{< alert context="danger" >}}
+Disclaimer: We are not medical experts, and cannot independently verify or vouch for the following websites. We encourage you to use any legal and medical resource within your power to undergo HRT before exercising these resources. Use them at your own risk. If you think you may have a medical emergency, please contact a doctor or emergency services.
+{{< /alert >}}
 - [diyhrt.wiki](https://diyhrt.wiki/index): "This website intends to teach transgender people how to safely perform DIY Hormone Replacement Therapy."
 - [diyhrt.cafe](https://diyhrt.cafe/index.php/Main_Page) ([how they verify sellers](https://diyhrt.cafe/index.php/Project:Verification))
 

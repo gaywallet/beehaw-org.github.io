@@ -1,14 +1,11 @@
 ---
-weight: 6
-bookFlatSection: true
-title: "Demographics of Beeple"
+icon: groups
+title: "Demographics"
 ---
-
-# Demographics of Beeple
-
 ## Demographic profile
 
 ### Age
+{{< table >}}
 How old are you? | June 2023 |
 |--:|:--:|
 16-17 | 16 |
@@ -19,8 +16,10 @@ How old are you? | June 2023 |
 55-64 | 39 |
 65-74 | 4 |
 Prefer not to answer | 127 |
+{{< /table >}}
 
 ### Gender Identity
+{{< table >}}
 | What is your gender identity? | June 2023 |
 |--:|:--:|
 | Male | 1032 |
@@ -32,8 +31,10 @@ Prefer not to answer | 127 |
 | Egg | 2 |
 | Other | 7 |
 | Prefer not to answer | 161 |
+{{< /table >}}
 
 ### Sexual orientation
+{{< table >}}
 What is your sexual orientation? | June 2023 |
 |--:|:--:|
 | Heterosexual | 826 |
@@ -46,8 +47,10 @@ What is your sexual orientation? | June 2023 |
 | Demisexual | 4 |
 | Other | 20 |
 | Prefer not to answer | 195 |
+{{< /table >}}
 
 ### Country of residence
+{{< table >}}
 What country do you live in? | June 2023 |
 |--:|:--:|
 | United States | 878 |
@@ -114,37 +117,47 @@ What country do you live in? | June 2023 |
 | United Arab Emirates | 1 |
 | Azerbaijan | 1 |
 | Prefer not to answer | 152 |
+{{< /table >}}
 
 ### Whiteness
+{{< table >}}
 | Do you consider yourself to be white or non-white? | June 2023 |
 |--:|:--:|
 | White | 1165 |
 | Non-White | 201 |
 | Prefer not to answer | 179 |
+{{< /table >}}
 ### Neurodivergence
+{{< table >}}
 | Do you consider yourself to be neurodivergent? | June 2023 |
 |--:|:--:|
 | Yes | 604 |
 | No | 724 |
 | Prefer not to answer | 217 |
+{{< /table >}}
 ### Disability
+{{< table >}}
 Do you consider yourself to have a disability? | June 2023 |
 |--:|:--:|
 | Yes | 326 |
 | No | 1031 |
 | Prefer not to answer | 188 |
+{{< /table >}}
 
 
 ## Awareness of the Fediverse
+{{< table >}}
 Have you ever heard of the Fediverse before Beehaw? | June 2023 |
 |--:|:--:|
 | Yes | 1114 |
 | No | 338 |
 | Prefer not to answer | 93 |
+{{< /table >}}
 
 ## Beehaw experience
 
 ### Confidence in ability to use Beehaw
+{{< table >}}
 How confident are you in your ability to use Beehaw? | June 2023 |
 |--:|:--:|
 | 1 | 0 |
@@ -153,8 +166,10 @@ How confident are you in your ability to use Beehaw? | June 2023 |
 | 4 | 255 |
 | 5 | 600 |
 | Prefer not to answer | 92 |
+{{< /table >}}
 
 ### Enjoyment
+{{< table >}}
 How have you been enjoying your time so far on Beehaw? | June 2023 |
 |--:|:--:|
 | 1 | 4 |
@@ -163,3 +178,4 @@ How have you been enjoying your time so far on Beehaw? | June 2023 |
 | 4 | 630 |
 | 5 | 595 |
 | Prefer not to answer | 92 |
+{{< /table >}}

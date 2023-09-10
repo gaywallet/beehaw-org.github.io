@@ -1,9 +1,7 @@
 ---
 title: On Content Removal
-weight: 5
+weight: 12
 ---
-# On Content Removal
-
 Harmful, bigoted, or generally distasteful content isn't as frequent on our site as it is elsewhere, but these do still appear enough that we sometimes get questions about why certain comments are left up. This post is meant to help you understand a bit about *how* we moderate.
 
 As stated in our sidebar and in tons of other places on our site, Beehaw aspires to be(e) a safe, friendly, and diverse place. Because everyone who participates on Beehaw plays an important role in that mission, we stress our collective responsibility to be inclusive and interact with intention in our communities. Building this space goes deeper than how admins and mods exercise content moderation though. It's also dependent on our culture, our personal duty to the community, and - to some extent - on our community itself.

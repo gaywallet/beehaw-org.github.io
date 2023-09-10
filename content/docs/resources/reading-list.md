@@ -1,9 +1,8 @@
 ---
 title: Beehaw reading list
-weight: 30
+icon: collections_bookmark
+weight: 18
 ---
-# Beehaw Reading list
-
 The following links are a list of relevant reading materials which inform how we run the site, decisions we've made in creating and structuring the site, administering the site, and so on. We don't agree with all facets of them, nor are we necessarily unanimous on _which_ parts are the most important - but they'll give you a good idea of what we prioritize and why. A brief quote from each is provided.
 
 - _[Evaporative Cooling of Group Beliefs](https://www.lesswrong.com/posts/ZQG9cwKbct2LtmL3p/evaporative-cooling-of-group-beliefs)_ by Eliezer Yudkowsky (December 7, 2007), _LessWrong_. "My own theory of Internet moderation is that you have to be willing to exclude trolls and spam to get a conversation going. You must even be willing to exclude kindly but technically uninformed folks from technical mailing lists if you want to get any work done. A genuinely open conversation on the Internet degenerates fast."

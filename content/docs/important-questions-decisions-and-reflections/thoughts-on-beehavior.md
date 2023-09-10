@@ -1,8 +1,7 @@
 ---
 title: Some general thoughts on be(e)havior
-weight: 21
+weight: 13
 ---
-# Some general thoughts on be(e)havior
 [Comments](https://beehaw.org/post/459291)
 
 If you have a few minutes to read a blog post, we would like to recommend reading [this excellent post](https://eev.ee/blog/2016/07/22/on-a-technicality/) where the author uses the term ‘evaporative cooling’ to insightfully evaluate what they’ve noticed about nice people in communities and how it’s really hard to keep them around. 

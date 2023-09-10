@@ -1,9 +1,8 @@
 ---
 title: Why downvotes are disabled
-weight: 10
+icon: thumbs_up_down
+weight: 7
 ---
-# Why downvotes are disabled
-
 If you ask ten users what the purpose of a downvote is, you'll likely receive 10 different responses. Down votes don't have a dedicated purpose. Even if they did, you can't ensure that everyone will follow that purpose. People use both upvotes and downvotes for a variety of purposes, many of which are redundant.
 
 Generally speaking, however, most people vote in a simple fashion - they vote on content they want to see. How they judge what they want to see is where things start to differ. Some people simply vote on content based on how it makes them feel. Some judge the "quality" of the content by some system or metric. Some vote because they think content should be or shouldn't be seen by others. Regardless of the reason they choose to vote, they generally view upvotes and downvotes as two ways to move things on the same axis. If they up vote content that they feel is "quality", they will down vote content that does not feel like "quality". This dichotomy of behavior on voting by definition makes down voting inherently negative and redundant.

@@ -1,5 +1,5 @@
 ---
 weight: 4
-bookFlatSection: true
+icon: hotel_class
 title: "Important questions, decisions and reflections"
 ---

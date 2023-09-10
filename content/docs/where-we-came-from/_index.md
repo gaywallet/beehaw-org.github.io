@@ -1,5 +1,5 @@
 ---
 weight: 4
-bookFlatSection: true
+icon: history
 title: "Where we came from"
 ---

@@ -1,8 +1,7 @@
 ---
-title: What is Beehaw?
-weight: 5
+title: What is (and isn’t) Beehaw
+weight: 3
 ---
-# What is (and isn’t) Beehaw
 [Comments](https://beehaw.org/post/107014?scrollToComments=true)
 
 ## Beehaw is a social media platform. 

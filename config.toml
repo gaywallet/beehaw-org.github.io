@@ -1,17 +1,31 @@
-baseURL = 'https://docs.beehaw.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Beehaw Docs'
 
+contentDir = "content"
+enableEmoji = true
 enableGitInfo = true
-disableKinds = ['taxonomy', 'taxonomyTerm']
-theme="hugo-book"
+
+[build]
+  noJSConfigInAssets = true
 
 [params]
-  # (Optional, default light) Sets color theme: light, dark or auto.
-  # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'auto'
-  BookLogo = 'beehaw.png'
-  BookRepo = 'https://github.com/beehaw-org/beehaw-org.github.io'
-  BookCommitPath = 'commit'
-  BookEditPath = 'edit/main'
+  [params.docs]
+    darkMode = true
+    themeColor = "yellow"
+    prism = false
+    breadcrumbs = false
+    sidebarIcons = true
+    titleIcon = true
+    ghrepo = "github.com/beehaw-org/beehaw-org.github.io"
+    editPage = true
+    lastMod = true
 
+[module]
+  replacements = "github.com/colinwilson/lotusdocs -> lotusdocs"
+  [[module.imports]]
+      path = "github.com/colinwilson/lotusdocs"
+      disable = false
+  [[module.imports]]
+      path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+      disable = false

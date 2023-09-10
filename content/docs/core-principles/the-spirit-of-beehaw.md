@@ -1,8 +1,8 @@
 ---
 title: The spirit of the rules
-weight: 6
+icon: policy
+weight: 4
 ---
-# The spirit of the rules
 [Comments](https://beehaw.org/post/107014?scrollToComments=true)
 
 The issue as we see it with modern social media is the way in which rules are enforced. There are many good reasons to itemize specific behavior which is not allowed, but the downside is that extremely specific rules are easy to maneuver around. We’ve all experienced someone who’s a real jerk on the internet but manages to never get banned because they never explicitly violate any rules. "I’m not sexist!" they’ll claim, but then happen to post a lot of articles calling into question modern feminism or criticize the wage gap...

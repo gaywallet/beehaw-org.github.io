@@ -1,9 +1,7 @@
 ---
 title: On defederation
-weight: 25
+weight: 15
 ---
-# On defederation
-
 We are simple with defederating: we do not allow hate speech, and we must consider our own limits when it comes to moderating. If an instance allows hateful speech or in our judgement has users who are too much for us to currently manage given the state of Lemmy, we defederate with it. These judgements are always open to being reconsidered, particularly if they are informed by a lack of moderation tools.
 
 ## Hate Speech

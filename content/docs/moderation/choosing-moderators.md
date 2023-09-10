@@ -1,8 +1,7 @@
 ---
 title: Choosing moderators
-weight: 50
+weight: 10
 ---
-# Moderation
 [Comments](https://beehaw.org/post/439918?scrollToComments=true)
 
 We think in the long term moderation is likely the most important aspect of this instance and key to ensuring this community stays a nice place. Moderation is a tricky subject and something that we don’t think any platform on the internet has managed to figure out.

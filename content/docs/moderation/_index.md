@@ -1,5 +1,5 @@
 ---
 weight: 3
-bookFlatSection: true
+icon: shield_with_heart
 title: "Moderation Philosophy"
 ---

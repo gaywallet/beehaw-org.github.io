@@ -1,9 +1,8 @@
 ---
 title: The rules for bots
-weight: 40
+icon: smart_toy
+weight: 9
 ---
-# The rules for bots
-
 ## Bots should be clearly prompted by a command
 
 Bots that always post without human intervention are noisy and are often unwanted.

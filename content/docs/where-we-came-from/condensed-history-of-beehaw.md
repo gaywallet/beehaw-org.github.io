@@ -1,8 +1,7 @@
 ---
 title: A condensed history of the formation of Beehaw
-weight: 7
+weight: 17
 ---
-# A condensed history of the formation of Beehaw
 [Comments](https://beehaw.org/post/107014)
 
 The group of users who created Beehaw used to exist on another platform. Many of us came to that platform from many other platforms before it. We were sold on the idea that it was a different platform, where discussion would be encouraged, and things would be different. While the platform was still small, there was a much higher feeling of cohesion and community and users being aggressive or hateful to each other was incredibly rare. When they were mean, it was often over emotionally charged issues and typically resolved itself with apologies or slight changes in who interacted with who. Over time this platform, like many others before it, got infested with a group of people we will refer to as 'rationalists'.
