@@ -22,7 +22,7 @@ If we receive an influx of users, you may get caught in registration limbo by fa
 If you have issues of this sort, please send us a message on [Mastodon](https://hachyderm.io/@beehaw) or through [email](mailto:support@beehaw.org)!
 
 ## I’m in! How can I keep Beehaw running, or otherwise contribute?
-Our instance is **100% user-funded**. You can one-time donate or become a monthly donor [here](https://opencollective.com/beehaw/donate). You can donate anonymously either way. 
+Our instance is **100% user-funded**. You can one-time donate or become a monthly donor [here](https://opencollective.com/beehaw-collective/donate). You can donate anonymously either way. 
 
 As far as we’re aware [cryptocurrency is accepted by OpenCollective](https://opencollective.com/foundation/updates/ocf-can-now-receive-cryptocurrency), it’s just more laborious and you’ll probably have to contact them to clear it.
 
